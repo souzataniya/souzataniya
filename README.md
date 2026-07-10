@@ -1,12 +1,8 @@
-
-
 # Taniya Souza
 
 I build at the intersection of AI and product, shipping agents that work in production, pipelines that process real-world data, and interfaces people use without thinking twice about them.
 
 Currently exploring how developer signals, contribution graphs, and engineering metadata can actually become meaningful intelligence.
-
-
 
 ## Tech Stack
 
@@ -16,11 +12,7 @@ Currently exploring how developer signals, contribution graphs, and engineering 
 
 `React` · `TypeScript` · `Python` · `Tailwind CSS` · `AWS` · `Gemini LLM` · `MongoDB` · `REST APIs` · `CI/CD`
 
-
-
 ## Competitive Highlights
-
-
 
 🥇 **HackNight** Winner 2026 *(Solo)*  
 *AWS × Elastic Bengaluru*
@@ -36,8 +28,6 @@ Currently exploring how developer signals, contribution graphs, and engineering 
 
 🥉 **National Social Hackathon 2024** 2nd Runners-up  
 *CMR Institute of Technology*
-
-
 
 ## Connect
 
