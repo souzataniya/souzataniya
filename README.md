@@ -1,37 +1,41 @@
 # Taniya Souza
 
-I build at the intersection of AI and product, shipping agents that work in production, pipelines that process real-world data, and interfaces people use without thinking twice about them.
+Olá! 👋 Construo na intersecção entre IA e produto — ponho em produção agentes que funcionam mesmo, pipelines que tratam dados do mundo real e interfaces que as pessoas usam sem terem de pensar duas vezes.
 
-Currently exploring how developer signals, contribution graphs, and engineering metadata can actually become meaningful intelligence.
+De momento ando a explorar como é que os sinais dos programadores, os grafos de contribuições e os metadados de engenharia podem, de facto, tornar-se inteligência com sentido.
 
-## Tech Stack
+## Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,python,tailwind,aws,mongodb" />
 </p>
 
-`React` · `TypeScript` · `Python` · `Tailwind CSS` · `AWS` · `Gemini LLM` · `MongoDB` · `REST APIs` · `CI/CD`
+`React` · `TypeScript` · `Python` · `Tailwind CSS` · `AWS` · `Gemini LLM` · `MongoDB` · `APIs REST` · `CI/CD`
 
-## Competitive Highlights
+## Prémios & Distinções
 
-🥇 **HackNight** Winner 2026 *(Solo)*  
-*AWS × Elastic Bengaluru*
+🥇 **HackNight** Vencedora 2026 *(a solo)*  
+*AWS × Elastic, Bengaluru*
 
-🥇 **Blitz** Winner 2026 *(Solo)*  
-*Sarvam AI × Monad Bengaluru*
+🥇 **Blitz** Vencedora 2026 *(a solo)*  
+*Sarvam AI × Monad, Bengaluru*
 
-🥇 **CodeSprint 2.0**  Winner  
+🥇 **CodeSprint 2.0** Vencedora  
 *Nitte Meenakshi Institute of Technology*
 
-🥉 **amBITion 24hr National Hackathon** 2nd Runners-up  
+🥉 **amBITion — Hackathon Nacional de 24h** 2.º lugar  
 *Bangalore Institute of Technology*
 
-🥉 **National Social Hackathon 2024** 2nd Runners-up  
+🥉 **National Social Hackathon 2024** 2.º lugar  
 *CMR Institute of Technology*
 
-## Connect
+## Contactos
 
 - 📧 `taniyasouza@gmail.com`
 - 💼 [LinkedIn](https://linkedin.com/in/taniya-souza-284167203)
 - ✍️ [Medium](https://medium.com/@taniyasouza)
 - 🛠️ [GitHub](https://github.com/chemicoholic21)
+
+---
+
+*Obrigada pela visita! Se quiseres trocar ideias, aparece — estou sempre disponível para um bom café ☕ e uma conversa sobre código.*
