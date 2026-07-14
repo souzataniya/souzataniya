@@ -1,41 +1,72 @@
-# Taniya Souza
+<div align="center">
 
-Olá! 👋 Construo na intersecção entre IA e produto — ponho em produção agentes que funcionam mesmo, pipelines que tratam dados do mundo real e interfaces que as pessoas usam sem terem de pensar duas vezes.
+# Hi, I'm Taniya Souza 👋
 
-De momento ando a explorar como é que os sinais dos programadores, os grafos de contribuições e os metadados de engenharia podem, de facto, tornar-se inteligência com sentido.
+### AI & Product Engineer — shipping agents, pipelines, and interfaces that just work
 
-## Tecnologias
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taniya-souza-284167203)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@taniyasouza)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chemicoholic21)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taniyasouza@gmail.com)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,python,tailwind,aws,mongodb" />
-</p>
-
-`React` · `TypeScript` · `Python` · `Tailwind CSS` · `AWS` · `Gemini LLM` · `MongoDB` · `APIs REST` · `CI/CD`
-
-## Prémios & Distinções
-
-🥇 **HackNight** Vencedora 2026 *(a solo)*  
-*AWS × Elastic, Bengaluru*
-
-🥇 **Blitz** Vencedora 2026 *(a solo)*  
-*Sarvam AI × Monad, Bengaluru*
-
-🥇 **CodeSprint 2.0** Vencedora  
-*Nitte Meenakshi Institute of Technology*
-
-🥉 **amBITion — Hackathon Nacional de 24h** 2.º lugar  
-*Bangalore Institute of Technology*
-
-🥉 **National Social Hackathon 2024** 2.º lugar  
-*CMR Institute of Technology*
-
-## Contactos
-
-- 📧 `taniyasouza@gmail.com`
-- 💼 [LinkedIn](https://linkedin.com/in/taniya-souza-284167203)
-- ✍️ [Medium](https://medium.com/@taniyasouza)
-- 🛠️ [GitHub](https://github.com/chemicoholic21)
+</div>
 
 ---
 
-*Obrigada pela visita! Se quiseres trocar ideias, aparece — estou sempre disponível para um bom café ☕ e uma conversa sobre código.*
+## 🚀 About Me
+
+I build at the intersection of **AI and product** — shipping agents that work in production, pipelines that process real-world data, and interfaces people use without thinking twice about them.
+
+- 🔭 Currently exploring how developer signals, contribution graphs, and engineering metadata can actually become **meaningful intelligence**.
+- 🧠 I care about the boring 20% that makes the exciting 80% actually ship.
+- ⚡ Fun fact: I do my best work solo, under a deadline, with a hackathon clock running.
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,python,tailwind,aws,mongodb" />
+
+</div>
+
+| Area | Tools |
+|------|-------|
+| **Languages** | `TypeScript` · `Python` |
+| **Frontend** | `React` · `Tailwind CSS` |
+| **AI / ML** | `Gemini LLM` · `AI Agents` |
+| **Backend & Data** | `REST APIs` · `MongoDB` |
+| **Cloud & DevOps** | `AWS` · `CI/CD` |
+
+## 🏆 Competitive Highlights
+
+| Result | Event | Host |
+|:------:|-------|------|
+| 🥇 **Winner** | HackNight 2026 *(Solo)* | AWS × Elastic, Bengaluru |
+| 🥇 **Winner** | Blitz 2026 *(Solo)* | Sarvam AI × Monad, Bengaluru |
+| 🥇 **Winner** | CodeSprint 2.0 | Nitte Meenakshi Institute of Technology |
+| 🥉 **2nd Runner-up** | amBITion 24hr National Hackathon | Bangalore Institute of Technology |
+| 🥉 **2nd Runner-up** | National Social Hackathon 2024 | CMR Institute of Technology |
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Taniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chemicoholic21&show_icons=true&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chemicoholic21&layout=compact&hide_border=true)
+
+</div>
+
+## 📫 Let's Connect
+
+- 📧 **Email** — [taniyasouza@gmail.com](mailto:taniyasouza@gmail.com)
+- 💼 **LinkedIn** — [taniya-souza](https://linkedin.com/in/taniya-souza-284167203)
+- ✍️ **Medium** — [@taniyasouza](https://medium.com/@taniyasouza)
+- 🛠️ **GitHub** — [@chemicoholic21](https://github.com/chemicoholic21)
+
+<div align="center">
+
+---
+
+*Thanks for stopping by! If you'd like to build something together, my inbox is always open. ☕*
+
+</div>
