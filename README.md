@@ -65,8 +65,5 @@ I build at the intersection of **AI and product** — shipping agents that work 
 
 <div align="center">
 
----
-
-*Thanks for stopping by! If you'd like to build something together, my inbox is always open. ☕*
 
 </div>
