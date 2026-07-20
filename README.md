@@ -2,7 +2,7 @@
 
 # Hi, I'm Taniya Souza 👋
 
-### AI & Product Engineer — shipping agents, pipelines, and interfaces that just work
+### AI & Product Engineer : shipping agents, pipelines, and interfaces that just work
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taniya-souza-284167203)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@taniyasouza)
