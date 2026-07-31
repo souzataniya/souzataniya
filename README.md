@@ -17,9 +17,9 @@
 
 I build at the intersection of **AI and product** — shipping agents that work in production, pipelines that process real-world data, and interfaces people use without thinking twice about them.
 
-- 🔭 Currently exploring how developer signals, contribution graphs, and engineering metadata can actually become **meaningful intelligence**.
-- 🧠 I care about the boring 20% that makes the exciting 80% actually ship.
-- ⚡ Fun fact: I do my best work solo, under a deadline, with a hackathon clock running.
+-  Currently exploring how I could help people get good at soft skills at the age of AI.
+-  I care about the boring 20% that makes the exciting 80% actually ship.
+-  Fun fact: I do my best work solo, under a deadline, with a hackathon clock running.
 
 ## 🛠️ Tech Stack
 
@@ -46,15 +46,6 @@ I build at the intersection of **AI and product** — shipping agents that work 
 | 🥇 **Winner** | CodeSprint 2.0 | Nitte Meenakshi Institute of Technology |
 | 🥉 **2nd Runner-up** | amBITion 24hr National Hackathon | Bangalore Institute of Technology |
 | 🥉 **2nd Runner-up** | National Social Hackathon 2024 | CMR Institute of Technology |
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Taniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chemicoholic21&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chemicoholic21&layout=compact&hide_border=true)
-
-</div>
 
 ## 📫 Let's Connect
 
