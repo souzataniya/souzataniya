@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I build at the intersection of **AI and product** — shipping agents that work in production, pipelines that process real-world data, and interfaces people use without thinking twice about them.
+I build at the intersection of **AI and product** shipping agents that work in production, pipelines that process real-world data, and interfaces people use without thinking twice about them.
 
 -  Currently exploring how I could help people get good at soft skills at the age of AI.
 -  I care about the boring 20% that makes the exciting 80% actually ship.
