@@ -15,7 +15,7 @@
 
 ## About Me
 
-I work on AI products — agents, data pipelines, and the interfaces that sit on top of them.
+I work on AI products : agents, data pipelines, and the interfaces that sit on top of them.
 
 - Currently exploring how AI can help people build better soft skills.
 - I like the unglamorous parts of a project that decide whether it actually ships.
