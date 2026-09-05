@@ -3,7 +3,6 @@
 # Hi, I'm Taniya Souza
 
 ### Research Engineer
-### Creator
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taniya-souza-284167203)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@taniyasouza)
