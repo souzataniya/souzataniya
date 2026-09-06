@@ -19,7 +19,6 @@ I work on AI products : agents, data pipelines, and the interfaces that sit on t
 
 - Currently exploring how AI can help people build better soft skills.
 - I like the unglamorous parts of a project that decide whether it actually ships.
-- I do some of my best work solo, on a deadline, at a hackathon.
 
 ## Tech Stack
 
